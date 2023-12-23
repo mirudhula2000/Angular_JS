@@ -1,0 +1,21 @@
+.homey{
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   min-height: screen;
+   width: 50%;
+   margin-left:250px;
+   margin-top: 150px;
+   padding: 45px;
+   color: darkblue;
+}
+.btn-menu{
+    border: 20px 6px;
+    border-radius: 5px;
+    background-color: cadetblue;
+    color:crimson;
+    font-weight: 500;
+    
+}

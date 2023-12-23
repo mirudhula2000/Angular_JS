@@ -1,0 +1,16 @@
+.header{
+    background-color:darkseagreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+   
+}
+.btn-contact{
+    border:8px 2px;
+    background-color: brown;
+    color: cornsilk;
+    border-radius: 4px;
+    height: 40px;
+    width: 70px;
+}
